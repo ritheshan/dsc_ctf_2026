@@ -47,5 +47,7 @@ Each folder contains:
 3. Scripts and exploits are included where applicable
 
 ---
+✍️ Authors
+**Team Hacktivators** 
 
-**Team Hacktivators** | DSC JSS STU Mysore
+*Happy hacking! Keep capturing those flags!* 🏴‍☠️🔓
