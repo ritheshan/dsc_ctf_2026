@@ -36,7 +36,7 @@ Each write-up includes:
 - ✅ **Solution Approach** – A step-by-step breakdown of how we solved it
 - ✅ **Exploit Code** (if applicable) – Scripts used in the process
 - ✅ **Lessons Learned** – Insights gained during the challenge
-- ✅ **Final Flag** – The obtained flag for validation
+
 
 ## 🚀 How to Use This Repository
 
